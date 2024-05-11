@@ -1,3 +1,5 @@
+![MagicBot](https://github.com/Naykrika/MagicBot/assets/28165579/86daed41-11c9-409e-8628-99b90e4aa2bb)
+
 <h1>🤖 MagicBot: Seu Chatbot de Viagem para Orlando</h1>
 
 ### Introdução:
